@@ -59,7 +59,7 @@ export default function Creators() {
             className="text-5xl md:text-6xl font-black tracking-tight text-white mb-2"
             style={{ textShadow: "0 0 40px rgba(0,200,255,0.2)" }}
           >
-            MEET THE CREATORS
+            MEET THE CREATOR
             <motion.span
               style={{ color: "#00c8ff" }}
               animate={{ textShadow: ["0 0 10px rgba(0,200,255,0.5)", "0 0 30px rgba(0,200,255,0.8)", "0 0 10px rgba(0,200,255,0.5)"] }}
